@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Hesari</h1>
-<h3 align="center">Technology Strategist & Startup Mentor for your business!</h3>
 
 
-Transforming ideas into successful ventures with expert development strategy, database architecture, technology selection, business planning, and more. Let's build something great together!
-
-<p>🌐 Full-stack developer | Startup builder | IT consultant</p>
-
-<p>Feel free to reach out for collaboration and consultation!</p>
-
-
-<h2 align="center">💬 Hire me</h2>
+<h2 align="center">💬 Playground</h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://www.upwork.com/freelancers/~017985f6ce43678143"><img src="https://img.shields.io/badge/Upwork-6FDA44?&style=for-the-badge&logo=upwork&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/alihesari/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;

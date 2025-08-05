@@ -8,9 +8,10 @@ I’ve worked on everything from high-scale backend systems and distributed arch
 
 - [ProductivityTrack.com](https://productivitytrack.com) – Life OS for Tech Professionals Who Want Clarity, Energy & Execution, Without Burning Out.
 - [MakeV1.com](https://makev1.com) – Helping developers launch the first version of an online business.
-- [Toolkit.dev](https://toolkit.dev) – A collection of AI-enhanced developer tools.
-- [Pixikit.com](https://pixikit.com) – Tools and components for modern UI design and frontend development.
 - [HunterKit.com](https://hunterkit.com) – A toolkit for launching, managing, and growing your Product Hunt presence.
+- [Toolkit.dev](https://toolkit.dev) – A collection of AI-enhanced developer tools.
+- [Pixitheme.com](https://pixitheme.com) – Pixi Theme offers high-quality templates and assets for React, Vue.js, HTML, WordPress, and Notion.
+- [Pixikit.com](https://pixikit.com) – Tools and components for modern UI design and frontend development.
 - [TechFarsi.com](https://techfarsi.com) – Technology education in Persian for aspiring software engineers and tech professionals.
 - [FintechFarsi.com](https://fintechfarsi.com) – Fintech education, tools, and tutorials in Persian.
 

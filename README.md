@@ -4,7 +4,7 @@ Building digital products and helping others do the same.
 
 I’ve worked on everything from high-scale backend systems and distributed architecture to frontend frameworks and mobile apps. I’ve also built businesses, launched startups, and taught others how to do the same. Currently working remotely and developing tools for developers and digital entrepreneurs.
 
-### Projects & Startups
+### Projects
 
 - [ProductivityTrack.com](https://productivitytrack.com) – Life OS for Tech Professionals Who Want Clarity, Energy & Execution, Without Burning Out.
 - [MakeV1.com](https://makev1.com) – Helping developers launch the first version of an online business.

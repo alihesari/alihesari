@@ -50,7 +50,7 @@
 
 ## What I'm Doing
 - **Building new tools** - Creating and experimenting with tools that make engineering faster
-- **Teaching coding** - Teaching programming in English & Persian for beginners and builders [English](https://alihesari.com/programming) - [Persian](https://techfarsi.com)
+- **Teaching coding** - Teaching programming in English & Persian for beginners and builders at [English](https://alihesari.com/programming) - [Persian](https://techfarsi.com)
 - **Cutting noise** - Sharing systems for focused, efficient programming at [productivitytrack.com](https://productivitytrack.com)
 - **Writing about AI workflows** - Documenting real-world AI workflows at [alihesari.com](https://alihesari.com)
 - **Rapid prototyping** - Shipping full apps in days, not months

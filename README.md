@@ -49,11 +49,11 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/alihesari)
 
 ## What I'm Doing
-- **Building new tools** - Learning and building tools to make engineering faster for everyone
-- **Teaching coding** - Teaching coding to everyone that wants to start and learn more [English](https://alihesari.com/programming) - [Persian](https://techfarsi.com)
-- **Cutting noise** - Learning and teaching how to do programming more productive and efficient [productivitytrack.com](https://productivitytrack.com)
-- **Writing about AI workflows** - Sharing my learnings on [alihesari.com](https://alihesari.com)
-- **Rapid prototyping** - Full apps in days, not months
+- **Building new tools** - Creating and experimenting with tools that make engineering faster
+- **Teaching coding** - Teaching programming in English & Persian for beginners and builders [English](https://alihesari.com/programming) - [Persian](https://techfarsi.com)
+- **Cutting noise** - Sharing systems for focused, efficient programming at [productivitytrack.com](https://productivitytrack.com)
+- **Writing about AI workflows** - Documenting real-world AI workflows at [alihesari.com](https://alihesari.com)
+- **Rapid prototyping** - Shipping full apps in days, not months
 
 ## Connect
 [![Blog](https://img.shields.io/badge/-alihesari.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://alihesari.com)

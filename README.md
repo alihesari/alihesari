@@ -56,7 +56,7 @@
 ## Legacy Work
 
 - 🎉 **[Notice.js](https://github.com/alihesari/notice.js)** - A beautiful and modern, yet fully customizable notification library.
-- 📦 **[Node.js Express boilerplate](https://github.com/alihesari/Node.js-Express-boilerplate)** - A boilerplate for building production-ready RESTful APIs using Node.js, Express, Typescript, and PostgreSQL
+- 📦 **[Node.js Express boilerplate](https://github.com/alihesari/Node.js-Express-boilerplate)** - Ready RESTful APIs using Node.js, Express, Typescript, and PostgreSQL
 
 
 ## GitHub Activity

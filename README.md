@@ -23,16 +23,16 @@
 - 🏁 **[AliHesari](https://alihesari.com)** - Turn software engineering experience into independent income
 - ✈️ **[Larasap](https://github.com/alihesari/laravel-social-auto-posting)** - Automated social media posting for Laravel applications
 - 🌱 **[Productivity Track](https://productivitytrack.com)** - AI-powered productivity tracker to help developers work smarter and avoid burnout
-- 🎥 **[Tech Farsi](https://techfarsi.com)** - Persian online courses for programmers and tech enthusiasts
 - 1️⃣ **[Make V1](https://makev1.com)** - AI assistant to validate ideas and build MVPs in days, not months
 - 🎯 **[Hunter Kit](https://hunterkit.com)** - Tools and checklists to prepare, launch, and grow on Product Hunt
 - 🧰 **[Toolkits](https://toolkits.dev)** - Curated AI-powered tools and utilities for developers
 - 🗣️ **[Vocabery](https://vocabery.com)** - AI language-learning tool to help developers learn new languages faster
 - 👨🏻‍💻 **[Job Macher](https://jobmatcher.com)** - AI-powered job matching platform for developers and tech professionals
 - 💞 **[Geek Match](https://geekMatch.com)** - AI-driven dating platform built specifically for developers
-- 💸 **[Fintech Farsi](https://fintechfarsi.com)** - Persian-language fintech education and AI-powered financial tools
 - 🧚‍♀️ **[Pixi Kit](https://pixikit.com)** - UI/UX component kit designed for AI-assisted code generation
 - 🧚 **[Pixi Theme](https://pixitheme.com)** - Customizable web & mobile themes built for AI code assistants
+- 🎥 **[Tech Farsi](https://techfarsi.com)** - Persian online courses for programmers and tech enthusiasts
+- 💸 **[Fintech Farsi](https://fintechfarsi.com)** - Persian-language fintech education and AI-powered financial tools
 - 🎤 **[Meet default off](https://github.com/alihesari/meet-default-off)** - Automatically disables camera and microphone when joining Google Meet
 - ❌ **[Element Remover](https://github.com/alihesari/element-remover)** - Remove unwanted web page elements using simple CSS selectors
 - ✚ **[Eisenhower OS](https://alihesari.notion.site/Eisenhower-OS-2130103e1b548044b9aff2645f486f68)** - Notion system to prioritize what truly matters using the Eisenhower Matrix

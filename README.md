@@ -42,7 +42,7 @@
 - ☑️ **[To-Do List](https://alihesari.notion.site/Daily-Highlight-1b30103e1b54806ebe8dc39e25086e67)** - Minimal daily to-do list for focus and execution
 - ✅ **[To-Do List V2](https://alihesari.notion.site/To-Do-List-1be0103e1b5480ddbf04e0f9feb5279d)** - Improved to-do system with better structure and clarity
 - 🍅 **[Time Blocking + Pomodoro](https://alihesari.notion.site/Time-Blocking-Pomodoro-1b40103e1b5480d0ae1cfe9bad64b7ef)** - Time-blocking and Pomodoro workflow in Notion
-- 🌿 **[Time Blocking + Pomodoro](https://alihesari.notion.site/Habit-Tracker-1bd0103e1b548044b5d5db36f7a70578)** - Simple habit-tracking system built in Notion
+- 🌿 **[Habit Tracker](https://alihesari.notion.site/Habit-Tracker-1bd0103e1b548044b5d5db36f7a70578)** - Simple habit-tracking system built in Notion
 
 ## GitHub Activity
 

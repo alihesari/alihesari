@@ -44,6 +44,12 @@
 - 🍅 **[Time Blocking + Pomodoro](https://alihesari.notion.site/Time-Blocking-Pomodoro-1b40103e1b5480d0ae1cfe9bad64b7ef)** - Time-blocking and Pomodoro workflow in Notion
 - 🌿 **[Habit Tracker](https://alihesari.notion.site/Habit-Tracker-1bd0103e1b548044b5d5db36f7a70578)** - Simple habit-tracking system built in Notion
 
+## Legacy Work
+
+- 🌿 **[Notice.js](https://github.com/alihesari/notice.js)** - A beautiful and modern, yet fully customizable notification library.
+- 🌿 **[Habit Tracker](https://github.com/alihesari/Node.js-Express-boilerplate)** - A boilerplate for building production-ready RESTful APIs using Node.js, Express, Typescript, and PostgreSQL
+
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/alihesari)

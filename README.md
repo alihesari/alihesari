@@ -44,10 +44,19 @@
 - 🍅 **[Time Blocking + Pomodoro](https://alihesari.notion.site/Time-Blocking-Pomodoro-1b40103e1b5480d0ae1cfe9bad64b7ef)** - Time-blocking and Pomodoro workflow in Notion
 - 🌿 **[Habit Tracker](https://alihesari.notion.site/Habit-Tracker-1bd0103e1b548044b5d5db36f7a70578)** - Simple habit-tracking system built in Notion
 
+## Courses
+
+- 🤑 **[Freelancer Plus (Persian)](https://techfarsi.com/courses/freelancer-plus-academy)** - Learn freelancing, personal branding, and how to earn independently
+- 👨🏻‍💻 **[Programming academy (Persian)](https://techfarsi.com/courses/programming-school)** - Learn programming and software engineering from zero to job-ready
+- 🤖 **[Ai club (Persian)](https://techfarsi.com/courses/ai-club)** - Learn AI and use it in real life, work, and business growth
+- 📝 **[Resume writing (Persian)](https://techfarsi.com/courses/resume)** - Learn how to write a strong, job-winning resume
+-  **[Migration (Persian)](https://techfarsi.com/courses/work-migration)** - Learn how to immigrate through work and business pathways
+
+
 ## Legacy Work
 
-- 🌿 **[Notice.js](https://github.com/alihesari/notice.js)** - A beautiful and modern, yet fully customizable notification library.
-- 🌿 **[Node.js Express boilerplate](https://github.com/alihesari/Node.js-Express-boilerplate)** - A boilerplate for building production-ready RESTful APIs using Node.js, Express, Typescript, and PostgreSQL
+- 🎉 **[Notice.js](https://github.com/alihesari/notice.js)** - A beautiful and modern, yet fully customizable notification library.
+- 📦 **[Node.js Express boilerplate](https://github.com/alihesari/Node.js-Express-boilerplate)** - A boilerplate for building production-ready RESTful APIs using Node.js, Express, Typescript, and PostgreSQL
 
 
 ## GitHub Activity

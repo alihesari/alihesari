@@ -57,7 +57,7 @@
 
 ## Connect
 [![Blog](https://img.shields.io/badge/-alihesari.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://alihesari.com)
-[![Twitter](https://img.shields.io/badge/-@alihesari-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/alihesari)
+[![Twitter](https://img.shields.io/badge/-@alihesari-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/alihesari)
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=fff)](https://www.producthunt.com/@alihesari)
 [![LinkedIn](https://img.shields.io/badge/-alihesari-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihesari)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alihesari)

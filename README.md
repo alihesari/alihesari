@@ -26,7 +26,7 @@
 ## Current Projects
 
 - 🏁 **[AliHesari](https://alihesari.com)** - Turn software engineering experience into independent income
-- ✈️ **[OwlStack](https://github.com/owlstacks)** - Automated Ai social media posting
+- 🦉 **[OwlStack](https://github.com/owlstacks)** - Automated Ai social media posting
 - 🌱 **[Productivity Track](https://productivitytrack.com)** - AI-powered productivity tracker to help developers work smarter and avoid burnout
 - 1️⃣ **[Make V1](https://makev1.com)** - AI assistant to validate ideas and build MVPs in days, not months
 - 🎯 **[Hunter Kit](https://hunterkit.com)** - Tools and checklists to prepare, launch, and grow on Product Hunt

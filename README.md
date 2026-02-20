@@ -62,6 +62,8 @@
 
 - 🎉 **[Notice.js](https://github.com/alihesari/notice.js)** - A beautiful and modern, yet fully customizable notification library.
 - 📦 **[Node.js Express boilerplate](https://github.com/alihesari/Node.js-Express-boilerplate)** - Ready RESTful APIs using Node.js, Express, Typescript, and PostgreSQL
+- 📢 **[Larasap V1](https://packagist.org/packages/toolkito/larasap)** - Laravel package for automated social media posting
+- 📢 **[Larasap V2](https://packagist.org/packages/alihesari/larasap)** - Laravel package for automated social media posting
 
 
 ## GitHub Activity

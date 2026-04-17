@@ -38,8 +38,8 @@
 - 🧚 **[Pixi Theme](https://pixitheme.com)** - Customizable web & mobile themes built for AI code assistants
 - 🎥 **[Tech Farsi](https://techfarsi.com)** - Persian online courses for programmers and tech enthusiasts
 - 💸 **[Fintech Farsi](https://fintechfarsi.com)** - Persian-language fintech education and AI-powered financial tools
-- 🎤 **[Meet default off](https://github.com/alihesari/meet-default-off)** - Automatically disables camera and microphone when joining Google Meet
-- ❌ **[Element Remover](https://github.com/alihesari/element-remover)** - Remove unwanted web page elements using simple CSS selectors
+- 🎤 **[Meet default off](https://chromewebstore.google.com/detail/meet-default-off/enainbmflcofjcgfbenfgcomimjblinp)** - Automatically disables camera and microphone when joining Google Meet
+- ❌ **[Element Remover](https://chromewebstore.google.com/detail/element-remover/ckamlebbnpdldgolomibkepgkhkolbfd)** - Remove unwanted web page elements using simple CSS selectors
 - ✚ **[Eisenhower OS](https://alihesari.notion.site/Eisenhower-OS-2130103e1b548044b9aff2645f486f68)** - Notion system to prioritize what truly matters using the Eisenhower Matrix
 - ⏳ **[Productivity OS](https://alihesari.notion.site/Productivity-OS-2130103e1b54805e9a7ece4832191ba3)** - All-in-one Notion system for managing life, work, and long-term goals
 - 📋 **[Eisenhower Matrix](https://alihesari.notion.site/eisenhower-matrix)** - Simple Notion template for task prioritization

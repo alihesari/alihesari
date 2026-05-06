@@ -25,7 +25,7 @@
 
 ## Current Projects
 
-- 🏁 <a href="https://alihesari.com" target="_blank" style="font-">Ali Hesari</a> - Turn software engineering experience into independent income
+- 🏁 <a href="https://alihesari.com" target="_blank">Ali Hesari</a> - Turn software engineering experience into independent income
 - 🦉 **[OwlStack](https://owlstack.app)** - Automated Ai social media posting
 - 🚓 **[StackPatrol](https://stackpatrol.dev)** - Know the moment your server breaks
 - 🌱 **[Productivity Track](https://productivitytrack.com)** - AI-powered productivity tracker to help developers work smarter and avoid burnout

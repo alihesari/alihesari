@@ -35,7 +35,7 @@
 - 🧰 **[Toolkits](https://toolkits.dev)** - Curated AI-powered tools and utilities for developers
 - 🗣️ **[Vocabery](https://vocabery.com)** - AI language-learning tool to help developers learn new languages faster
 - 👨🏻‍💻 **[Job Macher](https://jobmatcher.dev)** - AI-powered job matching platform for developers and tech professionals
-- 💞 **[Geek Match](https://geekMatch.com)** - AI-driven dating platform built specifically for developers
+- 💞 **[Geek Match](https://geekMatch.io)** - AI-driven dating platform built specifically for developers
 - 🧚‍♀️ **[Pixi Kit](https://pixikit.com)** - UI/UX component kit designed for AI-assisted code generation
 - 🧚 **[Pixi Theme](https://pixitheme.com)** - Customizable web & mobile themes built for AI code assistants
 - 🎥 **[Tech Farsi](https://techfarsi.com)** - Persian online courses for programmers and tech enthusiasts

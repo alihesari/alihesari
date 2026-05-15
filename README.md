@@ -18,6 +18,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
 
 > Deep in vibe-coding mode – building AI-powered developer tools. Learning engineering managing.
 

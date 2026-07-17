@@ -21,13 +21,13 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 
-> Deep in vibe-coding mode – building AI-powered developer tools. Learning engineering managing.
+> Deep in vibe-coding mode – building AI-powered developer tools. Learning engineering management.
 
 [My website](https://alihesari.com)
 
 ## Current Projects
 
-- 🏁 **[Ali Hesari](https://alihesari.com)** - Turn software engineering experience into independent income
+- 🏁 **[Ali Hesari](https://alihesari.com)** - My personal site: web products, AI-assisted development, and what I learn building them
 - 🦉 **[OwlStack](https://owlstack.app)** - Automated Ai social media posting
 - 🚓 **[StackPatrol](https://stackpatrol.dev)** - Know the moment your server breaks
 - 🌱 **[Productivity Track](https://productivitytrack.com)** - AI-powered productivity tracker to help developers work smarter and avoid burnout
@@ -76,7 +76,7 @@
 
 ## What I'm Doing
 - **Building new tools** - Creating and experimenting with tools that make engineering faster
-- **Teaching coding** - Teaching programming in English & Persian for beginners and builders at [English](https://alihesari.com/programming) - [Persian](https://techfarsi.com)
+- **Teaching coding** - Teaching programming in English & Persian for beginners and builders at [English](https://alihesari.com/software-development) - [Persian](https://techfarsi.com)
 - **Cutting noise** - Sharing systems for focused, efficient programming at [productivitytrack.com](https://productivitytrack.com)
 - **Writing about AI workflows** - Documenting real-world AI workflows at [alihesari.com](https://alihesari.com)
 - **Rapid prototyping** - Shipping full apps in days, not months

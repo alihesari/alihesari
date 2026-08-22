@@ -5,7 +5,7 @@ what I learn at [alihesari.com](https://alihesari.com).
 
 ## Products
 
-- 🅵 **[Fopost](https://fopost.com)** — social media publishing platform
+- 📮 **[Fopost](https://fopost.com)** — social media publishing platform
 - 🎥 **[Tech Farsi](https://techfarsi.com)** — Persian-language software education
 
 ## Open Source

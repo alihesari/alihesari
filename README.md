@@ -10,8 +10,7 @@ what I learn at [alihesari.com](https://alihesari.com).
 
 ## Open Source
 
-- 📢 **[owlstack-laravel](https://github.com/owlstacks/owlstack-laravel)** — Laravel package for publishing to 11 social platforms
-- ⚙️ **[owlstack-core](https://github.com/owlstacks/owlstack-core)** — framework-agnostic PHP publishing engine behind it
+- 📢 **[FoPost-social-Laravel](https://github.com/fopost/fopost-social-laravel)** — Laravel package for publishing to 11 social platforms
 - 🎉 **[notice.js](https://github.com/alihesari/notice.js)** — lightweight, dependency-free JavaScript notification library
 
 ## Connect

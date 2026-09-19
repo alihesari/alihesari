@@ -12,6 +12,7 @@ what I learn at [alihesari.com](https://alihesari.com).
 
 - 📢 **[FoPost-social-Laravel](https://github.com/fopost/fopost-social-laravel)** — Laravel package for publishing to 11 social platforms
 - 🎉 **[notice.js](https://github.com/alihesari/notice.js)** — lightweight, dependency-free JavaScript notification library
+- 📚 **[Awesomes](https://github.com/alihesari/awesomes)** — index of 15 curated awesome lists on AI agents, developer APIs, careers and moving abroad
 
 ## Connect
 

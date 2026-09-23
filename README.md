@@ -1,21 +1,23 @@
-# Hey, I'm Ali 👋
+### Hi, I'm Ali 👋
 
-Software engineer. I build web products and open-source tools, and write about
-what I learn at [alihesari.com](https://alihesari.com).
+Senior Software Engineer focused on **platform engineering** and **identity security**.
+I modernize legacy production systems and make them secure, automated and boring to operate.
 
-## Products
+**What I work on**
 
-- 📮 **[Fopost](https://fopost.com)** — social media publishing platform
-- 🎥 **[Tech Farsi](https://techfarsi.com)** — Persian-language software education
+- **Identity & access:** Keycloak (realms, clients, token exchange, impersonation), OAuth 2.0 / OIDC, SSO, least-privilege service accounts
+- **Platform:** Kubernetes, Helm, OpenTofu / Terraform, GitLab CI/CD, zero-downtime deployments
+- **Privacy & compliance:** GDPR data-rights systems (export, erasure, retention)
+- **Backend:** TypeScript, Node.js, Fastify, PHP, PostgreSQL, Elasticsearch
 
-## Open Source
+Recent work: moving a decade-old PHP monolith from bare metal to Kubernetes, managing Keycloak as code, and building an end-to-end GDPR data-rights platform.
 
-- 📢 **[FoPost-social-Laravel](https://github.com/fopost/fopost-social-laravel)** — Laravel package for publishing to 11 social platforms
-- 🎉 **[notice.js](https://github.com/alihesari/notice.js)** — lightweight, dependency-free JavaScript notification library
-- 📚 **[Awesomes](https://github.com/alihesari/awesomes)** — index of 15 curated awesome lists on AI agents, developer APIs, careers and moving abroad
+**Open source**
 
-## Connect
+- [**FoPost-social-Laravel**](https://github.com/fopost/fopost-social-laravel): Laravel package for publishing to 11 social platforms · 440+ ⭐ · maintained for ~10 years, recently rebuilt as a framework-agnostic core with a thin Laravel wrapper
+- [**fopost-mcp**](https://github.com/fopost/fopost-mcp): MCP server exposing 14+ tools to Claude, Cursor and other MCP clients
+- [**notice.js**](https://github.com/alihesari/notice.js): lightweight, dependency-free JavaScript notification library
 
-[![Website](https://img.shields.io/badge/-alihesari.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://alihesari.com)
-[![LinkedIn](https://img.shields.io/badge/-alihesari-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihesari)
-[![Twitter](https://img.shields.io/badge/-@alihesari-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/alihesari)
+**Connect**
+
+[LinkedIn](https://www.linkedin.com/in/alihesari)

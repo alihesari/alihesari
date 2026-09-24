@@ -1,4 +1,4 @@
-### Hi, I'm Ali 👋
+## Hi, I'm Ali 👋
 
 Senior Software Engineer focused on **platform engineering** and **identity security**.
 I modernize legacy production systems and make them secure, automated and boring to operate.

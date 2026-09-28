@@ -1,5 +1,3 @@
-2
-
 ## Hi, I'm Ali 👋
 
 Senior Software Engineer focused on **platform engineering** and **identity security**.
